@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://soban2722.github.io/live-stream/static/css/main.9b21fd3c.css",
+    "main.js": "https://soban2722.github.io/live-stream/static/js/main.2c858b19.js",
+    "index.html": "https://soban2722.github.io/live-stream/index.html",
+    "main.9b21fd3c.css.map": "https://soban2722.github.io/live-stream/static/css/main.9b21fd3c.css.map",
+    "main.2c858b19.js.map": "https://soban2722.github.io/live-stream/static/js/main.2c858b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b21fd3c.css",
+    "static/js/main.2c858b19.js"
+  ]
+}
